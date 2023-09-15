@@ -1,3 +1,3 @@
-module github.com/linuxonrails/learn_rust
+module github.com/linuxonrails/doesntmatter
 
 go 1.13

@@ -27,4 +27,9 @@ go mod init https://github.com/linuxonrails/learn_rust
 
 ### Install VSCode extensions
 
-Install rust-analyzer extension in VSCode.
+Install the following extensions in VSCode:
+
+- rust-analyzer
+- Even Better TOML
+
+More info: https://www.becomebetterprogrammer.com/rust-recommended-vscode-extensions/
